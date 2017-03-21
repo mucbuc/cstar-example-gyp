@@ -1,6 +1,6 @@
 # cstar-template-gyp
 
-** build **
+**build**
 ```
 cstar def.json -g > test.gypi
 gyp --depth==. host.gyp
