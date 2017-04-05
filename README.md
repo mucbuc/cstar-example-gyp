@@ -1,4 +1,4 @@
-# cstar-template-gyp
+# cstar-example-gyp
 
 **build**
 ```
